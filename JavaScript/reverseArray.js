@@ -6,6 +6,6 @@ function reverseArray(arrayParameter) {
 	}
 	return reversedArray;
 }
-
+//++++++++
 console.log(reverseArray(["a", "b", "c", "d", "e"]))
 console.log(reverseArray([1, 2, 3, 4, 5]))
